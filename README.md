@@ -4,7 +4,7 @@
 Variables
 
 | Question | Variable Name |
--------------------------------
+| --------- | ----------- |
 | Are you self-employed? | self_employeed |
 | How many employees does your company or organization have?	| company_size |
 | Is your employer primarily a tech company/organization? |	tech_company |
